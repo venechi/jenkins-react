@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          젠킨스에 react 프로젝트 연동 완료!
         </p>
         <a
           className="App-link"
